@@ -1,6 +1,6 @@
 # React Password Generator
 
-A simplepassword generator built with React. This tool allows you to create strong and secure passwords with ease. You can customize password length, include numbers, and special characters. Additionally, the generated password can be copied to your clipboard for easy use.
+A simple password generator built with React. This tool allows you to create strong and secure passwords with ease. You can customize password length, include numbers, and special characters. Additionally, the generated password can be copied to your clipboard for easy use.
 
 ## Features
 
